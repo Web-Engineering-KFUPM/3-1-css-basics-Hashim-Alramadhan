@@ -222,3 +222,85 @@ footer {
 
 /*Start writing you css code from here*/
 
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+span {
+    color: #888;
+    font-size: 14px;
+}
+
+.username {
+    color: #1877f2;
+    font-weight: bold;
+}
+
+.blue-text {
+    color: #4267B2;
+}
+
+.red-text {
+    color: #e74c3c;
+}
+
+.highlight {
+    background-color: #f0f2f5;
+    padding: 15px;
+}
+
+#featured-user {
+    color: #42b883;
+    font-size: 18px;
+}
+
+.winner {
+    color: #ff6b6b;
+}
+
+#specificity-test {
+    color: #4ecdc4;
+}
+
+p.winner {
+    color: #95a5a6;
+}
+
+.important-test {
+    color: #e67e22 !important;
+}
+
+.chat-container .message {
+    color: #2c3e50;
+}
+
+.simple-form input {
+    border: 1px #ccc;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.chat-container .message-time {
+    color: #7f8c8d;
+    font-size: 12px;
+}
+
+button.send-button:hover {
+    background-color: #3b5998;
+    color: white;
+}
+
+.send-button button:hover {
+    background-color: #145dbf;
+}
+
+a.chat-link:hover {
+    color: #1877f2;
+    text-decoration: none;
+}
+
+h4, h5, h6.trending-tag {
+    color: #8b9dc3;
+    font-family: Arial;
+}
